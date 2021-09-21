@@ -1,3 +1,5 @@
+// Chu-Liu/Edmonds' algorithm for max spanning tree
+
 #include<iostream>
 #include<algorithm>
 #include<vector>
