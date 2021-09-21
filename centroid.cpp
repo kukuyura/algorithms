@@ -1,5 +1,5 @@
 // Centroid decomposition
-// Watch https://codeforces.com/contest/342/submission/91165516 for more information about this code
+// Watch https://codeforces.com/contest/342/submission/91165516 for more info about this code
 
 #include<iostream>
 #include<vector>
