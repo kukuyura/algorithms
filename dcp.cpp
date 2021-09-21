@@ -1,4 +1,5 @@
 // Dynamic connectivity problem
+// Watch https://codeforces.com/gym/100551/submission/85558778 for more info about this code
 
 #include<iostream>
 #include<vector>
